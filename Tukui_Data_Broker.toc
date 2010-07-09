@@ -1,0 +1,15 @@
+## Interface: 30300
+## Author: Ztango, devxwill (Mankar - Runetotem)
+## Version: 2.0
+## Title: |cffC495DDTukui Data Broker|r
+## Notes: A data broker display for Tukui panels
+## RequiredDeps: Tukui
+
+#@no-lib-strip@
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+#@end-no-lib-strip@
+
+libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
+
+Tukui_Data_Broker.lua

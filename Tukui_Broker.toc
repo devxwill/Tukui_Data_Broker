@@ -1,0 +1,11 @@
+## Interface: 30300
+## Author: Ztango
+## Version: 1.1
+## Title: |cffC495DDTukui Broker|r
+## Notes: A data broker display for Tukui panels
+## RequiredDeps: Tukui
+
+embeds.xml
+
+LibDataBroker-1.1.lua
+Tukui_Broker.lua
